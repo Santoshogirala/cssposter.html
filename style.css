@@ -1,0 +1,26 @@
+#poster
+{
+    width: 50%;
+    margin-left: 25%;
+    text-transform: uppercase;
+    padding: 10px ;
+    text-align: center;
+    margin-top: 100px;
+    color: azure;
+}
+body
+{
+    background-color: red;
+}
+h1{
+    text-transform: uppercase;
+    font-size: x-large;
+}
+#motivation-img
+{
+    border: 5px solid gray;
+    width: 100%;
+    
+}
+
+  
